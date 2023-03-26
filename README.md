@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://media.discordapp.net/attachments/756393506808791102/1089676767545016350/gif.gif?width=675&height=675">
 </div>
 
