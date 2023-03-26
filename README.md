@@ -2,11 +2,6 @@
 
 <h1 align="center"> Welcome to my Github profile! ✨💖 </h1>
 
-<div style="display: inline_block"><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/756393506808791102/1089676767545016350/gif.gif?width=675&height=675">
-</div>
-
 <div align="center">
 
   <a href="https://github.com/juliapzp">
@@ -21,6 +16,11 @@
         <a href = "mailto:julyanap36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
       
+</div>
+
+<div style="display: inline_block"><br>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  src="https://media.discordapp.net/attachments/756393506808791102/1089676767545016350/gif.gif?width=675&height=675">
 </div>
 
 <div align='center'> <br>
