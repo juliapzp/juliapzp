@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8aa5&height=120&section=header"/>
 
-<h1 align="center"> Welcome to my Github profile! ✨💖 </h1>
+<h1 align="center"> Welcome to my Github profile! ✨💗 </h1>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliapzp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapzp&layout=compact&langs_count=7&theme=dracula"/>
   
-  <h3 align="center"> ✨ My social medias and contact fonts ✨ </h3>
+  <h3 align="center"> 🎀 My social medias and contact fonts 🎀 </h3>
     <div align="center">
       <a href="https://www.twitch.tv/julicaa"><img height="25em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
       <a href="https://www.instagram.com/julia_pzp/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
