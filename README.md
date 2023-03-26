@@ -34,6 +34,3 @@
   <img align="center" alt="Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
   
   <div align="center">
-
-
-  ![Snake animation](https://github.com/santiagocardoso/santiagocardoso/blob/output/github-contribution-grid-snake.svg)
