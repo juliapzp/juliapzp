@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+<img align="center" alt="Ju" height="150" style="border-radius:50px;" 
   src="https://media.discordapp.net/attachments/756393506808791102/1089676767545016350/gif.gif?width=675&height=675">
 </div>
 
@@ -34,3 +34,8 @@
   <img align="center" alt="Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
   
   <div align="center">
+    
+<div style="display: inline_block"><br>
+<img align="center" alt="Roses" height="150" style="border-radius:50px;" 
+  src="https://media.discordapp.net/attachments/756393506808791102/1089683063472144394/81d3b3c67e72c93b7ec22049ac1f82ee.gif?width=607&height=281">
+</div>
